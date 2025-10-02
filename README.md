@@ -2,6 +2,8 @@
 
 This project covers the analysis of bicycle usage as part of London’s public transportation system, as well as the insights derived from its results.
 
+<img width="588" height="385" alt="Screenshot 2025-10-02 at 12 36 04" src="https://github.com/user-attachments/assets/1e4f4aca-13da-4aba-976c-bf80d02c5f8d" />
+
 # Project Overview
 
 London Bike Sharing is a project that explores different aspects of the use of bicycles as a mode of urban transportation in the city of London. Through the chosen dataset, we analyzed usage patterns, bike models, routes, and, subsequently, the stations with the highest flow of rides. Here, you will find all the links related to the project—from the dataset itself, through the data cleaning and preprocessing steps, to the final dashboard and presentation with our conclusions. The project also leaves room for further exploration of other aspects and factors based on the findings so far—these next steps will be added here soon.
