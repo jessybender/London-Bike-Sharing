@@ -1,1 +1,4 @@
 https://www.kaggle.com/datasets/kalacheva/london-bike-share-usage-dataset
+git rm filename
+git commit -m "Remove file"
+git push
